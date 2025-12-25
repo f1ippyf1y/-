@@ -1,4 +1,5 @@
-Задача№1 <img width="448" height="647" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/dbae4609-527c-4692-9389-85a0235e9b1f" />
+Задача№1
+<img width="448" height="647" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/dbae4609-527c-4692-9389-85a0235e9b1f" />
 
 
 
